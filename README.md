@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arimir727
 - 👀 I’m interested in ... Learning to code 
-- 🌱 I’m currently learning ... Cloud Development
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... hik-626@hotmail.com
 
